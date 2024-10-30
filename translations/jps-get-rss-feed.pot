@@ -1,0 +1,349 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jps-get-rss-feed\n"
+"POT-Creation-Date: 2014-08-14 16:39:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: jp_get_rss_feed_items.php:64
+msgid "Do not access this file directly."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:114
+msgid "You do not have sufficient permission to access this page"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:124
+msgid "Settings"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:125
+msgid "Parameters"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:126 jp_get_rss_feed_items.php:242
+msgid "Support"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:136 jp_get_rss_feed_items.php:139
+msgid "Is plugin enabled? Uncheck this to turn it off temporarily."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:136
+msgid "Plugin enabled?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:141
+msgid ""
+"Enter the default URL here. This will be used wherever you use the "
+"shortcode, if you do not specify the URL."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:141
+msgid "Default URL for feeds"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:144
+msgid ""
+"Enter the default URL here. This will be used wherever you use the "
+"shortcode, if you do not specify the URL in the shortcode."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:146 jp_get_rss_feed_items.php:149
+msgid ""
+"Enter the default number of RSS feed items to display, if you do not pass a "
+"value to the plugin."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:146
+msgid "Default number of items"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:151
+msgid ""
+"Enter cache time in seconds. Feed will be cached for a minimum of X seconds"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:151
+msgid "Cache time (in seconds)"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:154
+msgid ""
+"Enter the default cache time for feeds, in seconds. Default is 43200 seconds "
+"(12 hours)."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:156
+msgid "Do you want to add rel=nofollow to all links?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:156
+msgid "Nofollow links?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:159
+msgid "Do you want to add rel=\"nofollow\" to all links?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:161
+msgid ""
+"Enter the default CSS class name, if you do not pass a value to the plugin."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:161
+msgid "Default CSS class"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:164
+msgid ""
+"Enter the default CSS class name for the div tag that wraps the output, if "
+"you do not pass a value to the plugin."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:166 jp_get_rss_feed_items.php:169
+msgid "Check this box to show the feed item description after the link."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:166
+msgid "Include feed item description?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:171
+msgid "Show this many characters of item description."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:174
+msgid ""
+"Enter the number of characters from the feed item description you want to "
+"display. Put '0' for full description. <strong>Does not apply if the above "
+"checkbox is not checked.</strong>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:176 jp_get_rss_feed_items.php:179
+msgid ""
+"Check this box to force links to open in a new window (uses JavaScript)."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:176
+msgid "Open links in new window?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:181
+msgid "Default sort order"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:190
+msgid "Select the sort order you would like to use as the default."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:192
+msgid "Is post title link optional?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:192
+msgid "Post link optional?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:195
+msgid ""
+"Check this box if you do not want the post titles to be hyperlinked. "
+"<strong>They will be plain text only if you check this box.</strong>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:197
+msgid "Include Featured Image (post thumbnail)?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:200
+msgid ""
+"Check this box if you want to display the \"Featured Image\" from each post "
+"in a local RSS feed. <strong>NOTE:</strong> Remote feeds will show the feed "
+"logo only."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:202
+msgid "Default post thumbnail size (local RSS feeds only)"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:211
+msgid ""
+"If you choose to display Featured Images, select the size you would like to "
+"use as the default. Works for local RSS feeds only."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:213
+msgid "Show post date before or after post title"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:224
+msgid "<em>Input date format details here</em>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:229
+msgid "Plugin Parameters and Default Values"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:234
+msgid "Shortcode and PHP Examples"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:235
+msgid "Shortcode Format:"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:238
+msgid "PHP Format:"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:240
+msgid ""
+"<small>Note: 'show' is false by default; set it to <strong>true</strong> "
+"echo the output, or <strong>false</strong> to return the output to your PHP "
+"code.</small>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:387 jp_get_rss_feed_items.php:502
+msgid ""
+"plugin is disabled. Either you did not pass a necessary setting to the "
+"plugin, or did not configure a default. Check Settings page."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:396
+msgid "invalid URL was passed. Please check the URL."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:437
+msgid "No feed items at this time. Please check back later."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:524
+msgid "is currently disabled."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:527
+msgid ""
+"WARNING: No default URL specified. You will need to pass a URL to the plugin "
+"each time you use the shortcode or PHP function."
+msgstr ""
+
+#: jp_get_rss_feed_items.php:562
+msgid "<a href=\"http://wordpress.org/support/plugin/%s\">Support</a>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:563 jp_get_rss_feed_items.php:704
+msgid "<a href=\"http://wordpress.org/extend/plugins/%s/\">Documentation</a>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:564
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:688
+msgid "<a href=\"options-general.php?page=%s\">Settings</a>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:702
+msgid "Do you need help with this plugin? Check out the following resources:"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:705
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a><br />"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:706
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/%s\">Support Forum</a><br />"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:707
+msgid ""
+"<a href=\"http://www.jimmyscode.com/wordpress/%s\">Plugin Homepage / Demo</"
+"a><br />"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:708
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/%s/developers/\">Development</"
+"a><br />"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:709
+msgid ""
+"<a href=\"http://wordpress.org/plugins/%s/changelog/\">Changelog</a><br />"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:712
+msgid ""
+"If you like this plugin, please <a href=\"http://wordpress.org/support/view/"
+"plugin-reviews/%s/\">rate it on WordPress.org</a>"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:713
+msgid ""
+" and click the <a href=\"http://wordpress.org/plugins/%s/#compatibility"
+"\">Works</a> button. "
+msgstr ""
+
+#: jp_get_rss_feed_items.php:715
+msgid "Your donations encourage further development and support. "
+msgstr ""
+
+#: jp_get_rss_feed_items.php:724
+msgid "The name of the parameter"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:724
+msgid "Parameter Name"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:725
+msgid "Is this parameter required?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:725
+msgid "Is Required?"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:726
+msgid "What data type this parameter accepts"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:726
+msgid "Data Type"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:727
+msgid "What, if any, is the default if no value is specified"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:727
+msgid "Default Value"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:741
+msgid "Yes"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:744
+msgid "No"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:753
+msgid "true"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:756
+msgid "false"
+msgstr ""
+
+#: jp_get_rss_feed_items.php:759
+msgid "this value is blank by default"
+msgstr ""
